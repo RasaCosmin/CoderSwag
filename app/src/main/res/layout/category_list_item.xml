@@ -27,7 +27,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Hats"
+        tools:text="Hats"
         android:textColor="@android:color/white"
         android:textSize="24sp"
         android:textStyle="bold"
